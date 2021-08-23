@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Samuel L.
+
+About ME:
+
+- Systems of Information student.
+- Currently working as a Fullstack Developer at Easy Auth Sistemas.
+- Proficient with JavaScript, React.js, GraphQL, node.js, MYSQL, mongoDB and ExpressJS.
+- In my free time, I practice game development in C#.
+- Currently learning C++ and Python.
 
 <!--
 **devsamuelc/devsamuelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
