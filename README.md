@@ -3,7 +3,7 @@
 About ME:
 
 - Systems of Information student.
-- Currently working as a Fullstack Developer at Easy Auth Sistemas.
+- Currently working as a Back-End Developer at Teclat T.
 - Proficient with JavaScript, React.js, GraphQL, node.js, MYSQL, mongoDB and ExpressJS.
 - In my free time, I practice game development in C#.
 - Currently learning C++ and Python.
