@@ -7,7 +7,6 @@ About ME:
 - Basic Docker, Redis and AWS knowledge and experience.
 - In my free time, I practice game development in C#.
 - Google Cloud Practitioner.
-- Currently learning C++ and Python.
 
 <!--
 **devsamuelc/devsamuelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
