@@ -6,6 +6,7 @@ About ME:
 - Proficient with JavaScript, React.js, GraphQL, node.js, MYSQL, mongoDB and ExpressJS.
 - Basic Docker, Redis and AWS knowledge and experience.
 - In my free time, I practice game development in C#.
+- Google Cloud Practitioner.
 - Currently learning C++ and Python.
 
 <!--
