@@ -4,8 +4,7 @@ About ME:
 
 - Internet Systems student.
 - Proficient with JavaScript, React.js, GraphQL, node.js, MYSQL, mongoDB and ExpressJS.
-- Basic Docker, Redis and AWS knowledge and experience.
-- In my free time, I practice game development in C#.
+- Docker, Redis and AWS knowledge and experience.
 - Google Cloud Practitioner.
 
 <!--
