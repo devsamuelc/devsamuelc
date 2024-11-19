@@ -2,10 +2,15 @@
 
 About ME:
 
-- Internet Systems student.
-- Proficient with JavaScript, React.js, GraphQL, node.js, MYSQL, mongoDB and ExpressJS.
-- Docker, Redis and AWS knowledge and experience.
-- Google Cloud Practitioner.
+- About five years working in tech
+- Proficient with JavaScript and Typescript
+- Experience in all databases, proficient with Firestore, MongoDB and PostGreSQL
+- Great knowledge and experience working with Cloud environments
+- Intermediate knowledge in Java, Python and C#, no professional experience ( yet )
+- LO-FI appreciator
+- Billingual, will learn a new language out of engaging in an environment
+- More of a listener than a talker
+- Will learn deeply about a problem in order to solve it
 
 <!--
 **devsamuelc/devsamuelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
